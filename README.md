@@ -21,6 +21,7 @@
 - [**Herlina Wallet**](https://herlina.web.app) – Dompet kripto Vexanium versi web, multiplatform & aman
 - [**Herlina Kit**](https://github.com/jajanjawa/herlina-kit) – Toolkit untuk koneksi DApp ke wallet (seperti WalletConnect)
 - [**Karmila Explorer**](https://karmila.web.app) – Explorer blockchain Vexanium, ringan & modern
+- [**OpenVEX**](https://openvex.web.app) – Pasar P2P Vexanium
 
 ## 📬 Connect with Me
 - 💬 Telegram: [@jajanjawa](https://t.me/jajanjawa)
