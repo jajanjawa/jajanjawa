@@ -22,6 +22,7 @@
 - [**Herlina Kit**](https://github.com/jajanjawa/herlina-kit) – Toolkit untuk koneksi DApp ke wallet (seperti WalletConnect)
 - [**Karmila Explorer**](https://karmila.web.app) – Explorer blockchain Vexanium, ringan & modern
 - [**OpenVEX**](https://openvex.web.app) – Pasar P2P Vexanium
+- [**Kadoin**](https://kadoin.web.app) – Kado digital berbasis blockchain
 
 ## 📬 Connect with Me
 - 💬 Telegram: [@jajanjawa](https://t.me/jajanjawa)
